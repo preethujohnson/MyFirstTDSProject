@@ -8,3 +8,7 @@ python-dateutil
 sqlalchemy
 pillow
 openai
+faker
+datetime
+scipy
+httpx
